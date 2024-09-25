@@ -13,9 +13,9 @@ public class Main {
         System.out.println("Rating: " + IMDbRating);
         System.out.println("Part of a series? " + partOfASeries);
         System.out.println("Director: " + directorInitial);
-        String[] favGenres = {"Comedy", "Animation", "Fantasy"};
+        String[] favGenres = {"Comedy!", "Animation!", "Fantasy!"};
         System.out.println("Movie Genre: " + favGenres[0]);
         System.out.println("Movie Genre: " + favGenres[1]);
-        System.out.println("Movie Genre: " + favGenres[2]);
+        System.out.println("Movie Genre: " + favGenres[1]);
     }
 }
